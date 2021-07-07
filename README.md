@@ -19,7 +19,7 @@ The funds are places when you can put your money or use it like money. Examples:
 * Money
 
 ### Categories
-The categories are more complex. You can create how many categories you want, but every category can be associated with just a type and this type define how a category will work.
+The categories are more complex. You can create how many categories you want, but every category can be associated with just one type and this type define how a category will work.
 
 #### Categories Types / Descriptions:
 * Pay - Just pay transactions
