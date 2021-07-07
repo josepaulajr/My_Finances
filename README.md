@@ -4,7 +4,7 @@ An Excel worksheet to help control your personal finance life!
 
 ## How it can help me?
 
-It's a prebuild worksheet with a data model, forms, and entry validation, so you can just download it, push your transaction and you will see your expenses by categories as well as how much money you have in your funds into beautiful and organized charts.
+It's a prebuild worksheet with a data model, forms, and entry validation, so you can just download it, push your data and you will see your expenses by categories as well as how much money you have in your funds into beautiful and organized charts.
 
 ## How it works?
 
