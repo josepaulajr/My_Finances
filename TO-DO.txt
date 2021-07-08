@@ -1,8 +1,0 @@
-TO-DO
-Criar validação para os registros lançados com status = false
-Checar se o ID do regitros é único na hora de salvar nas tabelas
-Mudar referências de planilhas para as tabelas em todo código vba
-Melhor a validação do campo data na entrada de novas transações (tratar erro)
-Não permitir criação de nova categoria ou fundo cujo nome já existe
-
-BUG: Quando vc insere o primeiro registro em uma tabela, ele é inserido em linhas diferentes. (A tabela transactions é a única que sofre com o problema, pois não tem nenhum dado cadastrado quando iniciada.)
