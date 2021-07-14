@@ -1,6 +1,6 @@
 # My Finances
 
-An Excel worksheet to help control your personal finance life!
+An Excel worksheet to help you take the control of your personal finance life!
 
 ## How it can help me?
 
